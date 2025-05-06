@@ -6,13 +6,13 @@ These testimonials highlight the real-world impact and adoption of the SCALED AI
 
 ---
 
-### Siraj Shaikh – Director, Health Services Advisory Group (HSAG)
+### Siraj Shaik – Director, Health Services Advisory Group (HSAG)
 
 > “Through his SCALED AI framework, Anshul introduced a powerful lens for building responsible and scalable data systems.  
 > His perspective encouraged me to move beyond focusing solely on accuracy, prompting deeper thinking around data integrity, feature robustness, and fairness.  
 > These principles now shape the data and AI solutions I design and the engineering standards I advocate across my teams — ensuring our pipelines are not only performant, but also resilient and accountable at scale.”
 
-🔗 [Siraj Shaikh: LinkedIn Profile](https://www.linkedin.com/in/siraj-shaik-14206783/)
+🔗 [Siraj Shaik: LinkedIn Profile](https://www.linkedin.com/in/siraj-shaik-14206783/)
 
 ---
 
