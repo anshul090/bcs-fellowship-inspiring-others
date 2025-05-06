@@ -16,7 +16,7 @@ These testimonials highlight the real-world impact and adoption of the SCALED AI
 
 ---
 
-### Sumit Wadhwa – Head AI Scientist, Dell Technologies
+### Sumit Wadhwa – Head Applied Scientist, Dell Technologies
 
 > “Anshul’s SCALED AI framework has been a valuable reference in my work evaluating trade-offs in GenAI system design — particularly around performance, fairness, and scalability.  
 > I’ve used the framework to guide my own thinking and often share it with peers and junior engineers as a structured way to approach model reviews and architectural discussions.”
